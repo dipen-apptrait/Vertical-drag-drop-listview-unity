@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 public class DraggableElementHandle : MonoBehaviour, IPointerDownHandler, IDragHandler, IPointerUpHandler
 {
     [SerializeField] private DraggableElement draggableElement;
-        
+    
     private void Awake()
     {
         if(draggableElement == null) draggableElement = GetComponentInParent<DraggableElement>();
@@ -18,7 +18,7 @@ public class DraggableElementHandle : MonoBehaviour, IPointerDownHandler, IDragH
 
     public void OnDrag(PointerEventData eventData)
     {
-        draggableElement.Drag(eventData.position);
+        draggableElement.Drag(eventData.delta);
     }
 
     public void OnPointerUp(PointerEventData eventData)
