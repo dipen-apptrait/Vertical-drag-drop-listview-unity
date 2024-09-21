@@ -8,3 +8,7 @@ As per our requirements, User can rearrange quiz categories with drag and drop g
 You can follow the full tutorial from https://apptraitsolutions.com/vertical-drag-drop-listview-unity/. 
 
 Unity is a truly peerless tool for game development. For developing 2D games Unity is a best platform. As well as  [Unity Game Development](https://apptraitsolutions.com/unity-game-development/) has a low cost of time & budget with flexibility to deploy games on various platform. At AppTrait Solutions, As a [unity game development company in India](https://apptraitsolutions.com), we have a dedicated unity developers that offers you 2D/3D game development services. 
+
+Need to gather feedback from your players? Consider integrating a [FREE Survey Maker tool](https://triviamaker.com) into your Unity game. This will allow you to create custom surveys directly within your game, making it easy for players to share their thoughts and preferences.
+
+
